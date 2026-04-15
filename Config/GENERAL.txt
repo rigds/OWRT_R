@@ -13,7 +13,7 @@ CONFIG_PACKAGE_luci-app-upnp=y
 CONFIG_PACKAGE_luci-app-wolplus=n
 #自用插件
 CONFIG_PACKAGE_luci-app-aria2=y
-CONFIG_PACKAGE_luci-app-alist=y
+CONFIG_PACKAGE_luci-app-openlist=y
 CONFIG_PACKAGE_luci-app-advancedplus=n
 CONFIG_PACKAGE_luci-app-cpufreq=y
 CONFIG_PACKAGE_luci-app-diskman=y

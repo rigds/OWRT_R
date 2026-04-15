@@ -53,6 +53,7 @@ UPDATE_PACKAGE "aurora-config" "eamonxg/luci-app-aurora-config" "master"
 UPDATE_PACKAGE "kucat" "sirpdboy/luci-theme-kucat" "master"
 UPDATE_PACKAGE "kucat-config" "sirpdboy/luci-app-kucat-config" "master"
 
+UPDATE_PACKAGE "dockerman" "lisaac/luci-app-dockerman" "master"
 UPDATE_PACKAGE "luci-app-advancedplus" "sirpdboy/luci-app-advancedplus" "main"
 UPDATE_PACKAGE "luci-app-store" "linkease/istore" "main"
 UPDATE_PACKAGE "lucky" "gdy666/luci-app-lucky" "main"

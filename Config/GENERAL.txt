@@ -1,5 +1,7 @@
 #启用ipk安装
 CONFIG_USE_APK=n
+CONFIG_PACKAGE_luci-app-argon-config=n
+
 #科学插件调整
 CONFIG_PACKAGE_luci-app-nikki=y
 CONFIG_PACKAGE_luci-app-homeproxy=y
